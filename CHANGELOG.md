@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/snakemake/snakemake-storage-plugin-irods/compare/v0.2.0...v0.3.0) (2025-03-14)
+
+
+### Features
+
+* fall back on scrambled password ([#11](https://github.com/snakemake/snakemake-storage-plugin-irods/issues/11)) ([b4454fc](https://github.com/snakemake/snakemake-storage-plugin-irods/commit/b4454fcf16d79d25b2868ef60b3c749dec42cdeb))
+
 ## [0.2.0](https://github.com/snakemake/snakemake-storage-plugin-irods/compare/v0.1.2...v0.2.0) (2024-08-14)
 
 
