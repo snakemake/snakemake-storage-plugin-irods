@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/snakemake/snakemake-storage-plugin-irods/compare/v0.3.0...v0.3.1) (2025-03-24)
+
+
+### Bug Fixes
+
+* adapt to storage plugin interface changes ([#14](https://github.com/snakemake/snakemake-storage-plugin-irods/issues/14)) ([6bc81f8](https://github.com/snakemake/snakemake-storage-plugin-irods/commit/6bc81f8f8ecdf0357079ca7d0624a1ba3a0a5a99))
+
 ## [0.3.0](https://github.com/snakemake/snakemake-storage-plugin-irods/compare/v0.2.0...v0.3.0) (2025-03-14)
 
 
